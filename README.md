@@ -2,7 +2,7 @@
 - 👀 I’m interested in radio telecommunications
 - 🌱 I’m currently studying for CISSP
 - 💞️ I’m looking to collaborate on Technical Security controls. 
-- 📫 How to reach me liamhchaney@gmail.com
+- 📫 How to reach me ...
 
 <!---
 SlyCooperking/SlyCooperking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
