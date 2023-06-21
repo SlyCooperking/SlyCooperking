@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SlyCooperking
 - 👀 I’m interested in radio telecommunications
-- 🌱 I’m currently studying for CISSP
-- 💞️ I’m looking to collaborate on Technical Security controls. 
+- 🌱 I’m currently playing with ProxMox
+- 💞️ I’m looking to collaborate on Powershell, Bash, and Rust. 
 - 📫 How to reach me ...
 
 <!---
